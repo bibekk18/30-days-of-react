@@ -8,7 +8,7 @@ const About = () => {
       <Button  name="register"/>
       <Button name="login"/>
       <Button name="logout"/>
-      <Button />
+      
 
 
 
