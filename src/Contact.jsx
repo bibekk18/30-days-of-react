@@ -17,7 +17,7 @@ const decreaseCount = ()=>{
   return (
     <>
     
-    {/* <h1>this is contact page</h1> */}
+    <h1>this is contact page</h1>
     <h1>{number}</h1>
     <button onClick={increaseCount}>+</button>
     <button onClick={decreaseCount}>-</button>
